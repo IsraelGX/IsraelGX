@@ -7,7 +7,7 @@
 
 - 💬 Me pergunte sobre : **Power BI,API,Postman,Insomnia,API Rest,Cypress,SQ** 
 
-- 📫 Você me acha através do e-mail : **israelgomes .qa@gmail.com**
+- 📫 Você me acha através do e-mail : **israelgomes.qa@gmail.com**
 
 - 📄 Fui fundado por Israel Gomes e aqui estão as habilidades que me criaram. : [www.linkedin.com/in/israel-gomes-8833a5196](www.linkedin.com/in/israel-gomes-8833a5196)
 
