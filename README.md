@@ -1,9 +1,9 @@
 <h1 align="center">Oi 👋, Eu sou Israel</h1>
 <h3 align="center">QA Analista em testes de software entusiasta em ciências da computação.</h3>
 
-- 🌱 Atualmente estou aprendendo **Cypress** e **SQL**.
+- 🌱 Atualmente estou aprendendo **Docker** e **SQL**.
 
-- 💬 Me pergunte sobre,**JS**, **API**, **Postman**, **Insomnia** e **API Rest**.
+- 💬 Me pergunte sobre,**JS**, **API**, **Postman**, **Insomnia** e **API Rest**,**Cypress**
 
 - 📫 Você pode me encontrar através do e-mail **israelgomes.qa@gmail.com**.
 
