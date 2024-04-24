@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, Eu sou Israel</h1>
+<h1 align="center">Oi 👋, Eu sou Israel Gomes</h1>
 <h3 align="center">QA Analista em testes de software entusiasta em ciências da computação.</h3>
 
 - 🌱 Atualmente estou aprendendo **Docker** e **SQL**.
