@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou aprendendo **Cypress** e **SQL**.
 
-- 💬 Me pergunte sobre **Power BI**, **API**, **Postman**, **Insomnia** e **API Rest**.
+- 💬 Me pergunte sobre,**JS**, **API**, **Postman**, **Insomnia** e **API Rest**.
 
 - 📫 Você pode me encontrar através do e-mail **israelgomes.qa@gmail.com**.
 
