@@ -14,18 +14,12 @@ sistemas.
 
 - 💬 Me pergunte sobre,**JS**, **API**, **Postman**, **Insomnia** e **API Rest**,**Cypress**
 
+- 📫 Você pode me encontrar através do e-mail **israelgomes.qa@gmail.com**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-    <a href="israelgomes.qa@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="www.linkedin.com/in/israel-gomes-8833a5196" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="@raelgoms" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
+  <a href="https://linkedin.com/in/israel-gomes-8833a5196" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/israel-gomes-8833a5196" height="30" width="40" /></a>
+  <a href="https://instagram.com/raelgoms" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@raelgoms" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Idiomas e ferramentas:</h3>
