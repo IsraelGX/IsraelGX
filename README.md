@@ -1,18 +1,31 @@
 <h1 align="center">Oi 👋, Eu sou Israel Gomes</h1>
 <h3 align="center">QA Analista em testes de software entusiasta em ciências da computação.</h3>
 
+Analista em e Teste de Software,
+buscando oportunidades para
+aplicar e expandir minhas
+habilidades em qualidade de
+software. Como profissional em
+transição de carreira, trago uma
+sólida base em desenvolvimento de
+sistemas.
+
 - 🌱 Atualmente estou aprendendo **Docker** e **SQL**.
 
 - 💬 Me pergunte sobre,**JS**, **API**, **Postman**, **Insomnia** e **API Rest**,**Cypress**
 
-- 📫 Você pode me encontrar através do e-mail **israelgomes.qa@gmail.com**.
-
-- 📄 Fui fundado por Israel Gomes e aqui estão as habilidades que me alcançaram. [www.linkedin.com/in/israel-gomes-8833a5196](https://www.linkedin.com/in/israel-gomes-8833a5196)
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/israel-gomes-8833a5196" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/israel-gomes-8833a5196" height="30" width="40" /></a>
-  <a href="https://instagram.com/raelgoms" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@raelgoms" height="30" width="40" /></a>
+    <a href="israelgomes.qa@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="www.linkedin.com/in/israel-gomes-8833a5196" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="@raelgoms" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
 </p>
 
 <h3 align="left">Idiomas e ferramentas:</h3>
@@ -36,7 +49,15 @@
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=israelgx&show_icons=true&locale=en&layout=compact" alt="israelgx" /></p>
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=israelGX&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=israelGX&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
 
 <!---
 - 👋 Hi, eu sou  @IsraelGX
