@@ -10,7 +10,7 @@ transição de carreira, trago uma
 sólida base em desenvolvimento de
 sistemas.
 
-- 🌱 Atualmente estou aprendendo **Docker** e **SQL**.
+- 🌱 Atualmente estou aprimorando meus conhecimentos em **Cypress** e **SQL**.
 
 - 💬 Me pergunte sobre, **JS**, **API**, **Postman**, **Insomnia** e **API Rest**, **Cypress**.
 
