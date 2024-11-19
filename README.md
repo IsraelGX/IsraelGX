@@ -1,14 +1,11 @@
-<h1 align="center">Oi 👋, Eu sou Israel Gomes</h1>
+<h1 align="center">👋 Olá! </h1>
 <h3 align="center">QA Analista em testes de software entusiasta em ciências da computação.</h3>
 
-Analista em e Teste de Software,
-buscando oportunidades para
-aplicar e expandir minhas
-habilidades em qualidade de
-software. Como profissional em
-transição de carreira, trago uma
-sólida base em desenvolvimento de
-sistemas.
+Sou Israel Gomes, um profissional apaixonado por qualidade de software, sempre buscando formas de garantir a melhor experiência para os usuários. Minha trajetória combina testes manuais e automatizados, com foco em eficiência e inovação.
+
+Formado pelo Bootcamp de Analista de QA da TripleTen, adquiri habilidades práticas nas principais ferramentas de testes e metodologias ágeis. Durante o curso, desenvolvi projetos que abrangem validação de APIs com Postman, testes E2E com Cypress e gerenciamento de tarefas no Jira, sempre buscando entregar soluções robustas e eficientes.
+
+Atualmente, estou em busca de oportunidades para aplicar e expandir meus conhecimentos em automação de testes, análise de desempenho e garantia de qualidade de software. Minha missão é contribuir para que produtos digitais entreguem valor com máxima performance e confiabilidade.
 
 - 🌱 Atualmente estou aprimorando meus conhecimentos em **Cypress** e **SQL**.
 
