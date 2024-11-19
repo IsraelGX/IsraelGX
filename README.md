@@ -7,9 +7,7 @@ Formado pelo Bootcamp de Analista de QA da TripleTen, adquiri habilidades práti
 
 Atualmente, estou em busca de oportunidades para aplicar e expandir meus conhecimentos em automação de testes, análise de desempenho e garantia de qualidade de software. Minha missão é contribuir para que produtos digitais entreguem valor com máxima performance e confiabilidade.
 
-- 🌱 Atualmente estou aprimorando meus conhecimentos em **Cypress** e **SQL**.
-
-- 💬 Me pergunte sobre, **JS**, **API**, **Postman**, **Insomnia** e **API Rest**, **Cypress**.
+- 👨‍💻 Atualmente estou aprimorando meus conhecimentos em **Cypress** e **SQL**.
 
 
 <h3 align="left">Conecte-se comigo:</h3>
