@@ -1,5 +1,5 @@
 <h1 align="center">👋 Olá! </h1>
-<h3 align="center">QA Analista em testes de software entusiasta em ciências da computação.</h3>
+<h3 align="center">QA Analista em testes de software.</h3>
 
 Sou Israel Gomes, um profissional apaixonado por qualidade de software, sempre buscando formas de garantir a melhor experiência para os usuários. Minha trajetória combina testes manuais e automatizados, com foco em eficiência e inovação.
 
