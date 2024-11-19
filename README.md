@@ -11,7 +11,6 @@ Atualmente, estou em busca de oportunidades para aplicar e expandir meus conheci
 
 - 💬 Me pergunte sobre, **JS**, **API**, **Postman**, **Insomnia** e **API Rest**, **Cypress**.
 
-- 📫 Você pode me encontrar através do e-mail **israelgomes.qa@gmail.com**
 
 <h3 align="left">Conecte-se comigo:</h3>
 
@@ -21,7 +20,7 @@ Atualmente, estou em busca de oportunidades para aplicar e expandir meus conheci
 
 - Discord: israelgoms
 
-<h3 align="left">Idiomas e ferramentas:</h3>
+<h3 align="left">Linguagens e ferramentas:</h3>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
