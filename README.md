@@ -21,6 +21,9 @@ Atualmente, estou em busca de oportunidades para aplicar e expandir meus conheci
 - Discord: israelgoms
 
 <h3 align="left">Linguagens e ferramentas:</h3>
+
+JavaScript - Html - Postman - cypress - git - github - figma - azure - docker - mysql
+
 <p align="left">
   <a href="https://skillicons.dev" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=js,html,postman,cypress,git,github,figma,azure,docker,mysql" alt="My Skills"/>
