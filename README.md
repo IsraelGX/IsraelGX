@@ -1,12 +1,12 @@
 <h1 align="center">👋 Olá! </h1>
 
-Sou Israel Gomes, um profissional apaixonado por qualidade de software, sempre buscando formas de garantir a melhor experiência para os usuários. Minha trajetória combina testes manuais e automatizados, com foco em eficiência e inovação.
+Sou Israel Gomes, um profissional apaixonado por qualidade de software, comprometido em garantir a melhor experiência para os usuários. Minha expertise combina testes manuais e automatizados, com foco em eficiência, inovação e entrega de valor.
 
-Formado pelo Bootcamp de Analista de QA da TripleTen, adquiri habilidades práticas nas principais ferramentas de testes e metodologias ágeis. Durante o curso, desenvolvi projetos que abrangem validação de APIs com Postman, testes E2E com Cypress e gerenciamento de tarefas no Jira, sempre buscando entregar soluções robustas e eficientes.
+Formado pelo Bootcamp de Analista de QA da TripleTen, desenvolvi habilidades práticas em ferramentas e metodologias essenciais. Durante o curso, concluí projetos que incluíram validação de APIs com Postman, testes E2E com Cypress e gerenciamento de tarefas no Jira, sempre buscando soluções robustas e eficientes.
 
-Atualmente, estou em busca de oportunidades para aplicar e expandir meus conhecimentos em automação de testes, análise de desempenho e garantia de qualidade de software. Minha missão é contribuir para que produtos digitais entreguem valor com máxima performance e confiabilidade.
+Entre minhas conquistas estão a entrega de projetos bem-sucedidos que melhoraram a eficiência de processos de testes e aumentaram a confiabilidade dos produtos. Além disso, destaco meu compromisso com o aprendizado contínuo: atualmente, estou aprimorando conhecimentos em Cypress e SQL para potencializar minhas habilidades em automação e análise de dados.
 
-- 👨‍💻 Atualmente estou aprimorando meus conhecimentos em **Cypress** e **SQL**.
+Busco oportunidades para aplicar e ampliar minha experiência em automação de testes, análise de desempenho e garantia de qualidade de software. Minha missão é contribuir para que produtos digitais sejam entregues com desempenho máximo, alta confiabilidade e valor agregado.
 
 
 <h3 align="left">Conecte-se comigo:</h3>
