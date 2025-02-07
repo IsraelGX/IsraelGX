@@ -1,12 +1,10 @@
 <h1 align="center">👋 Olá! </h1>
 
-Sou Israel Gomes, um profissional apaixonado por qualidade de software, comprometido em garantir a melhor experiência para os usuários. Minha expertise combina testes manuais e automatizados, com foco em eficiência, inovação e entrega de valor.
+Me chamo Israel Gomes, formado em Técnico Redes pela Faculdade Senac. Realizei uma transição carreira em 2020 para área de Qualidade de Software.
+Em 2020 Me formei pela E2E Treinamentos em Engenheiro de Qualidade de Software com foco em Automação de Testes.
+Atualmente sou responsável por garantir a qualidade de software na esteira de desenvolvimento, aplicando conceito da cultura de shift left testing, melhorando a cultura e processo de qualidade dentro de SDLC. Tenho background técnico na linguagem de programação Javascript, estou atuando com testes manuais e automatizados em um projeto ágil utilizando o framework Scrum. 
 
-Formado pelo Bootcamp de Analista de QA da TripleTen, desenvolvi habilidades práticas em ferramentas e metodologias essenciais. Durante o curso, concluí projetos que incluíram validação de APIs com Postman, testes E2E com Cypress e gerenciamento de tarefas no Jira, sempre buscando soluções robustas e eficientes.
 
-Entre minhas conquistas estão a entrega de projetos bem-sucedidos que melhoraram a eficiência de processos de testes e aumentaram a confiabilidade dos produtos. Além disso, destaco meu compromisso com o aprendizado contínuo: atualmente, estou aprimorando conhecimentos em Cypress e SQL para potencializar minhas habilidades em automação e análise de dados.
-
-Busco oportunidades para aplicar e ampliar minha experiência em automação de testes, análise de desempenho e garantia de qualidade de software. Minha missão é contribuir para que produtos digitais sejam entregues com desempenho máximo, alta confiabilidade e valor agregado.
 
 
 <h3 align="left">Conecte-se comigo:</h3>
